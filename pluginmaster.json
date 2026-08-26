@@ -1,11 +1,11 @@
 [
   {
     "Author": "tanyu",
-    "Name": "Tan_Auto_Retainer",
-    "InternalName": "Tan_Auto_Retainer",
-    "AssemblyVersion": "0.1.0.0",
+    "Name": "Custom MB Plugin",
+    "InternalName": "CustomMBPlugin",
+    "AssemblyVersion": "0.2.0.0",
     "Punchline": "AutoRetainer ventures plus built-in market board pinch",
-    "Description": "After AutoRetainer collects a venture and assigns a quick venture, Tan_Auto_Retainer pinches that retainer's market listings (embedded Dagobert engine) before moving to the next retainer. Requires AutoRetainer Multi-Mode. Disable the separate Dagobert plugin. Slash command: /tanar (use '/tanar config' for settings)",
+    "Description": "After AutoRetainer collects a venture and assigns a quick venture, Custom MB Plugin pinches that retainer's market listings (embedded Dagobert engine) before moving to the next retainer. Requires AutoRetainer Multi-Mode. Disable the separate Dagobert plugin. Slash command: /custommb (use '/custommb config' for settings)",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -16,9 +16,9 @@
     ],
     "RepoUrl": "https://github.com/TanYukseloglu/Custom-MB-Plugin",
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.1.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.2.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.2.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.2.0.0/latest.zip",
     "DownloadCount": 0
   }
 ]

@@ -1,4 +1,4 @@
-# Tan_Auto_Retainer — Dalamud Plugin Repository
+# Custom MB Plugin — Dalamud Plugin Repository
 
 A Dalamud plugin that runs an AutoRetainer venture cycle and, after each retainer
 collects and assigns a quick venture, pinches (undercuts) that retainer's market
@@ -17,7 +17,7 @@ board listings using an embedded Dagobert engine — before moving to the next r
    ```
 
 4. Open the plugin installer: `/xlplugins`
-5. Search for **Tan_Auto_Retainer** and click **Install**
+5. Search for **Custom MB Plugin** and click **Install**
 
 ## Requirements
 
@@ -26,8 +26,8 @@ board listings using an embedded Dagobert engine — before moving to the next r
 
 ## Usage
 
-- `/tanar` — open the main window
-- `/tanar config` — open settings
+- `/custommb` — open the main window
+- `/custommb config` — open settings
 
 ## Updating the plugin
 
@@ -36,7 +36,7 @@ in the source tree. To publish a new version:
 
 1. Rebuild the plugin in Release/x64 (produces a fresh `latest.zip`).
 2. Bump `<Version>` in the project and `AssemblyVersion` in `pluginmaster.json`.
-3. Create a new GitHub Release (e.g. `v0.2.0.0`) and upload the new `latest.zip` as an asset.
+3. Create a new GitHub Release (e.g. `v0.3.0.0`) and upload the new `latest.zip` as an asset.
 4. Update the three `DownloadLink*` URLs in `pluginmaster.json` to the new release tag.
 5. Commit and push `pluginmaster.json`.
 
