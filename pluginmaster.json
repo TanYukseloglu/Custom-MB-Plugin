@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "tanyu",
+    "Name": "Tan_Auto_Retainer",
+    "InternalName": "Tan_Auto_Retainer",
+    "AssemblyVersion": "0.1.0.0",
+    "Punchline": "AutoRetainer ventures plus built-in market board pinch",
+    "Description": "After AutoRetainer collects a venture and assigns a quick venture, Tan_Auto_Retainer pinches that retainer's market listings (embedded Dagobert engine) before moving to the next retainer. Requires AutoRetainer Multi-Mode. Disable the separate Dagobert plugin. Slash command: /tanar (use '/tanar config' for settings)",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "retainer",
+      "auto",
+      "marketboard",
+      "utility"
+    ],
+    "RepoUrl": "https://github.com/TanYukseloglu/Custom-MB-Plugin",
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/TanYukseloglu/Custom-MB-Plugin/main/plugins/Tan_Auto_Retainer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/TanYukseloglu/Custom-MB-Plugin/main/plugins/Tan_Auto_Retainer/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/TanYukseloglu/Custom-MB-Plugin/main/plugins/Tan_Auto_Retainer/latest.zip",
+    "DownloadCount": 0
+  }
+]
