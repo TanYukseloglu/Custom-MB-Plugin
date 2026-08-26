@@ -16,9 +16,9 @@
     ],
     "RepoUrl": "https://github.com/TanYukseloglu/Custom-MB-Plugin",
     "IconUrl": "",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/TanYukseloglu/Custom-MB-Plugin/main/plugins/Tan_Auto_Retainer/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/TanYukseloglu/Custom-MB-Plugin/main/plugins/Tan_Auto_Retainer/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/TanYukseloglu/Custom-MB-Plugin/main/plugins/Tan_Auto_Retainer/latest.zip",
+    "DownloadLinkInstall": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TanYukseloglu/Custom-MB-Plugin/releases/download/v0.1.0.0/latest.zip",
     "DownloadCount": 0
   }
 ]

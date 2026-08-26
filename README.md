@@ -31,12 +31,14 @@ board listings using an embedded Dagobert engine — before moving to the next r
 
 ## Updating the plugin
 
-`latest.zip` is the packaged build Dalamud downloads. To publish a new version:
+The packaged build (`latest.zip`) is hosted as a **GitHub Release asset**, not committed
+in the source tree. To publish a new version:
 
 1. Rebuild the plugin in Release/x64 (produces a fresh `latest.zip`).
 2. Bump `<Version>` in the project and `AssemblyVersion` in `pluginmaster.json`.
-3. Replace `plugins/Tan_Auto_Retainer/latest.zip` with the new build.
-4. Commit and push.
+3. Create a new GitHub Release (e.g. `v0.2.0.0`) and upload the new `latest.zip` as an asset.
+4. Update the three `DownloadLink*` URLs in `pluginmaster.json` to the new release tag.
+5. Commit and push `pluginmaster.json`.
 
 ## Source & License
 
